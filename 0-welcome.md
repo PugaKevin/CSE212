@@ -7,10 +7,16 @@ Welcome to the Python Data Structures, where I make you question life itself. Su
 
 Each bullet point will give you a description and examples needed to understand the concept. At the end of each module there will be a problem for you to solve on your own. Look at the solution only after you have attempted to solve the problem first. 
 
+This will be us when we learn something new!
+
+![Confused](Images/celebrate.gif)
+
 # Contact
 For questions or comments please send them to : 
 
 Kevin Puga | BYU-Idaho | CSE 212 | Section 5
 
 u019374685@byui.edu
+
+
 
